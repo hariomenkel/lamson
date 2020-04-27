@@ -15,7 +15,7 @@ config = {
      'version': '1.3.4',
      'scripts': ['bin/lamson'],
      'install_requires': ['chardet', 'jinja2', 'mock', 'nose', 'python-daemon',
-                         'python-modargs'],
+                         'python3-modargs'],
      'packages': ['lamson',
      'lamson.handlers'],
      'name': 'lamson'
